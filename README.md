@@ -12,3 +12,9 @@
 ### What This Does
 - `video_publisher.py` reads video file using OpenCV, converts the frames to ROS Image Message using CvBridge and publishes to topic '/ball_video'
 - `ball_tracker.py` subscribes to the ROS Image topic, suitably converts to OpenCV image and performs contour tracking on the ball
+
+### Author
+
+* **Siddharth Saha** - [trunc8](https://github.com/trunc8)
+
+<p align='center'>Created with :heart: by <a href="https://www.linkedin.com/in/sahasiddharth611/">Siddharth</a></p>
