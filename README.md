@@ -1,4 +1,4 @@
-# Ball_Tracking_Using_OpenCV_And_ROS
+# Ball Tracking Using OpenCV And ROS
 
 ### Demo
 ![Ball Tracking Demo](Ball_Tracking_Demo.gif)
